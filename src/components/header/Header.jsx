@@ -12,7 +12,6 @@ export const Header = ({ onToggle }) => {
     </header>
   );
 };
-
 const Container = styled.div`
   width: 100%;
   height: 101px;
