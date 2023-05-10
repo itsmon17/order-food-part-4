@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/order-food-part-4/static/css/main.464dbc23.css",
+    "main.js": "/order-food-part-4/static/js/main.1077639f.js",
+    "static/media/pexels-alexy-almond-3756523 1 (1).png": "/order-food-part-4/static/media/pexels-alexy-almond-3756523 1 (1).1869efe11eed99b0f914.png",
+    "static/media/HeaderIcon.svg": "/order-food-part-4/static/media/HeaderIcon.47badad43474fad5b756ec634816310f.svg",
+    "index.html": "/order-food-part-4/index.html",
+    "static/media/btnPlus.svg": "/order-food-part-4/static/media/btnPlus.0d67491bd412626612914826ef43ec0b.svg",
+    "static/media/btnMines.svg": "/order-food-part-4/static/media/btnMines.47b9eecfc35f671b0a974b75851ae433.svg",
+    "main.464dbc23.css.map": "/order-food-part-4/static/css/main.464dbc23.css.map",
+    "main.1077639f.js.map": "/order-food-part-4/static/js/main.1077639f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464dbc23.css",
+    "static/js/main.1077639f.js"
+  ]
+}
